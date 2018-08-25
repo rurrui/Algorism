@@ -1,0 +1,2 @@
+# Algorism
+Algorisim prac
